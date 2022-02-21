@@ -12,3 +12,4 @@ this is for Ahmet
 Hey guys,
 
 I am Ahmet Saribas
+hi ahmet this is  a conection test 
